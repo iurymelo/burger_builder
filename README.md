@@ -3,8 +3,9 @@
 
 The Burger Builder is a webapp created in React to make a delicious burger.
 You can have a demo: [Burger Builder App](https://burgerbuilder-udemy.firebaseapp.com/)
-
+<h1 align="center">
 <img src='https://i.imgur.com/REo55nr.png'   alt="Iury Melo" title="bethehero" height='300' />
+ </h1>
 
 ## Technologies :rocket: :
 
